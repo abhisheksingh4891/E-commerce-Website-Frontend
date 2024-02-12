@@ -15,9 +15,12 @@ const ShopContextProvider = (props) => {
     // If not, add the item to the cart
     if (!isDuplicate) {
       setCartItems((previtems) => [...previtems, data]);
+      
+      alert("Item Added to Cart");
+      
       // console.log(data);
     }else{
-      console.log("Item already added to cart");
+      alert("Item already added to cart");
       setCount(count+1);
 
     }
