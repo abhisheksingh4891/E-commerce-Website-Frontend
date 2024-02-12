@@ -1,18 +1,18 @@
-import React, { useContext, useState } from "react";
+import React, { useContext} from "react";
 import { ShopContext } from "../context/ShopContext";
 import "./CSS/Cart.css";
 
 
 function Cart() {
   const { deleteItem, cartItems, count, setCount } = useContext(ShopContext);
-  const [isDisabled, setDisabled] = useState(false);
+  // const [isDisabled, setDisabled] = useState(false);
 
-  function lessthanzero(){
-    setCount(count-1);
-      if(count === 1){
-        setDisabled(true);
-      }
-  }
+  // function lessthanzero(){
+  //   setCount(count-1);
+  //     if(count === 1){
+  //       setDisabled(true);
+  //     }
+  // }
   return (
     <div className="maincart">
       <div className="cart">
