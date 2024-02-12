@@ -4,7 +4,7 @@ import "./CSS/Cart.css";
 
 
 function Cart() {
-  const { deleteItem, cartItems, count, setCount } = useContext(ShopContext);
+  const { deleteItem, cartItems } = useContext(ShopContext);
   // const [isDisabled, setDisabled] = useState(false);
 
   // function lessthanzero(){

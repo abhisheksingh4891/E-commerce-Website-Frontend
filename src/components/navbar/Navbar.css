@@ -151,7 +151,11 @@
     .nav-logo p {
       font-size: 24px; /* Smaller font for logo text */
     }
-  
+    
+    .nav-menu theme{
+      width: 40%;
+    }
+    
     .nav-menu li {
       flex-direction: row; /* Display menu items in a single line */
     }
@@ -159,6 +163,5 @@
     .nav-login-cart img {
       margin-right: 10px; /* Add spacing for smaller screens */
     }
-    
   }
   
