@@ -1,70 +1,63 @@
-# Getting Started with Create React App
+**Exclsv.com**
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**A E-commerce Website**
 
-## Available Scripts
+**Website URL :** https://exclsv-e-commerce.netlify.app/
 
-In the project directory, you can run:
 
-### `npm start`
+**1st component Navbar and 2nd component hero js file**
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![1  Home(1st component Navbar and 2nd component hero js file)](https://github.com/abhisheksingh4891/exclsv.com-e-commerce-website/assets/75315222/337f7857-b8ef-44a2-85bb-84408a16045a)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+**3rd component popular js**
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![2  Popular(3rd component popular js)](https://github.com/abhisheksingh4891/exclsv.com-e-commerce-website/assets/75315222/6a8b108b-0e86-4b85-83c0-01755872766f)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+**4th component offer js**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![5  Offer (4th component offer js)](https://github.com/abhisheksingh4891/exclsv.com-e-commerce-website/assets/75315222/7803544d-8ca8-4ec0-b3f7-578a1d6f8b18)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+**5th component newCollection js**
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![4  New_Collections(5th component newCollection js](https://github.com/abhisheksingh4891/exclsv.com-e-commerce-website/assets/75315222/3dc41121-6bb0-4421-a5d5-a2eb5c0a3f1e)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+**6th component newsLetter js**
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![5  New_letter(6th component newsLetter js)](https://github.com/abhisheksingh4891/exclsv.com-e-commerce-website/assets/75315222/734e6844-c8c2-4cc7-a87a-36620fd6594f)
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+**7th component footer js**
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![6  Footer(7th component footer js)](https://github.com/abhisheksingh4891/exclsv.com-e-commerce-website/assets/75315222/949cfe2a-2dbf-43f8-a480-4d246a37765a)
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+**8th Men's Section**
 
-### Analyzing the Bundle Size
+![7  Men's Section](https://github.com/abhisheksingh4891/exclsv.com-e-commerce-website/assets/75315222/635bdaf8-14c2-48e9-9c71-e03065609e2a)
+![7 1](https://github.com/abhisheksingh4891/exclsv.com-e-commerce-website/assets/75315222/6f95547b-3e31-4e19-8558-85c2d6abc8c7)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+**9th Women's Section**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+![8  Women's Section](https://github.com/abhisheksingh4891/exclsv.com-e-commerce-website/assets/75315222/71ce16b7-33b6-4280-a333-2bd72c22e01b)
+![8 1](https://github.com/abhisheksingh4891/exclsv.com-e-commerce-website/assets/75315222/183b7d66-f50c-4d15-a8aa-38070b3fa629)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+**10th Kid's Section**
 
-### Deployment
+![9 1 Kid's Section](https://github.com/abhisheksingh4891/exclsv.com-e-commerce-website/assets/75315222/f966fb2a-87d0-48d8-8f6c-ddd16d4490b9)
+![9 1](https://github.com/abhisheksingh4891/exclsv.com-e-commerce-website/assets/75315222/b79cbdd2-8817-4580-aa19-c104e66e72e9)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
+**11th Registeration and Login form**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![10  registeration](https://github.com/abhisheksingh4891/exclsv.com-e-commerce-website/assets/75315222/c807fc49-49ad-43d6-a508-22524a4d7f59)
+
+
+**12th Dark Mode**
+
+![11  Dark mode](https://github.com/abhisheksingh4891/exclsv.com-e-commerce-website/assets/75315222/1120771a-c0a3-4ed5-bf47-3182b50aafea)
