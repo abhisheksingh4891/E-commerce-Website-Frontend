@@ -59,6 +59,9 @@
 }
 
 @media (max-width: 768px) {
+    .hero{
+        height: 50vh;
+    }
     .hero-left {
         padding-left: 20px;
     }
@@ -68,7 +71,7 @@
     }
 
     .hero-left p {
-        font-size: 36px;
+        font-size: 26px;
     }
 
     .hero-hand-icon img {

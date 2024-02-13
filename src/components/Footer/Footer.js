@@ -17,7 +17,7 @@ const Footer = () => {
         </div>
         <ul className='footer-links'>
           <li onClick={()=>{setMenu("company")}}>Company{menu==="company"?<theme/>:<></>}</li>
-          <li onClick={()=>{setMenu("products")}}><Link style={{ textDecoration:'none'}} to=''>Popular</Link>{menu==="products"?<theme/>:<></>}</li>
+          <li onClick={()=>{setMenu("products")}}><Link style={{ textDecoration:'none', color:'#252525'}} to=''>Popular</Link>{menu==="products"?<theme/>:<></>}</li>
           <li onClick={()=>{setMenu("offices")}}>Offices{menu==="offices"?<theme/>:<></>}</li>
           <li onClick={()=>{setMenu("about")}}>About{menu==="about"?<theme/>:<></>}</li>
           <li onClick={()=>{setMenu("contact")}}>Contact{menu==="contact"?<theme/>:<></>}</li>

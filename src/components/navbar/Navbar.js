@@ -43,10 +43,10 @@ const Navbar = () => {
       </div>
       <ul className='nav-menu'>
         {/* hr = theme */}
-        <li onClick={()=>{setMenu("shop")}}><Link style={{ textDecoration:'none'}} to='/'>Shop</Link>{menu==="shop"?<theme/>:<></>}</li>
-        <li onClick={()=>{setMenu("mens")}}><Link style={{ textDecoration:'none'}} to='/mens'>Men</Link>{menu==="mens"?<theme/>:<></>}</li>
-        <li onClick={()=>{setMenu("womens")}}><Link style={{ textDecoration:'none'}} to='/womens'>Women</Link>{menu==="womens"?<theme/>:<></>}</li>
-        <li onClick={()=>{setMenu("kids")}}><Link style={{ textDecoration:'none'}} to='/kids'>Kids</Link>{menu==="kids"?<theme/>:<></>}</li>
+        <li onClick={()=>{setMenu("shop")}}><Link style={{ textDecoration:'none', color:'#252525'}} to='/'>Shop</Link>{menu==="shop"?<theme/>:<></>}</li>
+        <li onClick={()=>{setMenu("mens")}}><Link style={{ textDecoration:'none', color:'#252525'}} to='/mens'>Men</Link>{menu==="mens"?<theme/>:<></>}</li>
+        <li onClick={()=>{setMenu("womens")}}><Link style={{ textDecoration:'none', color:'#252525'}} to='/womens'>Women</Link>{menu==="womens"?<theme/>:<></>}</li>
+        <li onClick={()=>{setMenu("kids")}}><Link style={{ textDecoration:'none', color:'#252525'}} to='/kids'>Kids</Link>{menu==="kids"?<theme/>:<></>}</li>
       </ul>
       <div className='nav-login-cart'>
         <Link to='/login'><button >Login</button></Link>

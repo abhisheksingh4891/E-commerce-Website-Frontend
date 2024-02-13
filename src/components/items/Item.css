@@ -48,12 +48,16 @@ button:hover {
     width: 100%; /* Adjust width for smaller screens */
     align-items: center;
   }
+  .item p{
+    width: 350px;
+  }
 
   .item-prices {
+    gap: 2px;
     flex-direction: column; /* Stack prices vertically */
   }
 
   button {
-    width: 50%; /* Expand button width */
+    width: 30%; /* Expand button width */
   }
 }
